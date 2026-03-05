@@ -1,8 +1,3 @@
-# A place for keeping track of things.
+# Notes
 
-[JS](JS/README.md)  
-[JSON](JSON/README.md)  
-[HTML](HTML/README.md)  
-[CSS](CSS/README.md)  
-[NODE](NODE/README.md)  
-[UNIX](UNIX/README.md)  
+Some high level notes about different tools and technologies that I can use a refersher of the basic concepts.
